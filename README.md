@@ -1,2 +1,2 @@
 # NLP-MH-reddit
-This is my code for my thesis research.
+This is the code for my thesis research.
